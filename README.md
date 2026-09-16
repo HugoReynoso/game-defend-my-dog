@@ -27,6 +27,8 @@ Il gioco è ottimizzato per smartphone in modalità portrait, ma supporta anche 
 - appoggi rilevati in modo invisibile: la stabilità emerge direttamente dal comportamento fisico
 - con zero o un solo appoggio la barriera cade con gravità naturale e si posa su cane, terreno e piattaforme
 - due estremità ben appoggiate rendono la barriera stabile; le api continuano a premere sulle difese mobili
+- le api cercano i bordi e cambiano direzione quando una barriera blocca il percorso verso il cane
+- gli appoggi richiedono un contatto ravvicinato: piccoli varchi permettono alle api di entrare
 - piattaforme sospese sopra acqua e lava rendono pericolosa una protezione chiusa ma non ancorata
 - acqua e lava capaci di eliminare il cane nei livelli ambientali
 
