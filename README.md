@@ -25,7 +25,8 @@ Il gioco è ottimizzato per smartphone in modalità portrait, ma supporta anche 
 - riserva d'inchiostro più che raddoppiata per linee lunghe e soluzioni geometriche elaborate
 - sistema di appoggi fisici: zero appoggi significa difesa mobile, un appoggio crea una leva, due appoggi stabilizzano la protezione
 - appoggi rilevati in modo invisibile: la stabilità emerge direttamente dal comportamento fisico
-- la barriera resta ferma dopo il disegno e può essere spinta o sollevata soltanto dal contatto delle api; due estremità ben appoggiate la bloccano
+- con zero o un solo appoggio la barriera cade con gravità naturale e si posa su cane, terreno e piattaforme
+- due estremità ben appoggiate rendono la barriera stabile; le api continuano a premere sulle difese mobili
 - piattaforme sospese sopra acqua e lava rendono pericolosa una protezione chiusa ma non ancorata
 - acqua e lava capaci di eliminare il cane nei livelli ambientali
 
